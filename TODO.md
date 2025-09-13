@@ -1,0 +1,3 @@
+- [x] Navigate to project directory
+- [x] Install dependencies with npm install
+- [x] Start development server with npm run dev
